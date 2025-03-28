@@ -44,5 +44,5 @@ Soy desarrollador web junior full-stack. Me apasiona el front-end y todas las he
 ![my](	https://github-readme-stats.vercel.app/api/top-langs/?username=PascualDev85&theme=blue-green)
 
 	
-![Readme Card](https://github-readme-stats.vercel.app/api?username=PascualDev85&theme=blue-green)
+![Readme Card](https://github-readme-stats.vercel.app/api?username=ismpascu43&theme=blue-green)
   
