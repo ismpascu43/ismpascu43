@@ -40,11 +40,12 @@ Soy desarrollador web junior full-stack. Me apasiona el front-end y todas las he
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,ts,nodejs,express,mysql,html,css,sass,bootstrap,tailwind,git,vscode,github,discord)](https://skillicons.dev)
 
-##
+### ⚙️ &nbsp;GitHub Analytics
 
-
-![my](	https://github-readme-stats.vercel.app/api/top-langs/?username=PascualDev85&theme=blue-green)
-
-	
-![Readme Card](https://github-readme-stats.vercel.app/api?username=ismpascu43&theme=blue-green)
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ismpascu43&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ismpascu43&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
   
