@@ -18,7 +18,7 @@ Soy desarrollador web junior full-stack. Me apasiona el front-end y todas las he
 
 ## Habilidades:
 
-● Maquetación web: HTML5, CSS3, Flexbox, Grid, diseño web responsive, SASS, Bootstrap, Tailwind.
+● Maquetación web: HTML5, CSS3, Flexbox, Grid, diseño web responsive.
 
 ● Front-end: JavaScript ES6, TypeScript, React.
 
