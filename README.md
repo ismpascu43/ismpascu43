@@ -5,7 +5,7 @@
 Soy desarrollador web junior full-stack. Me apasiona el front-end y todas las herramientas que lo componen, aunque también me desenvuelvo bien con el back-end. Me considero una persona resolutiva, dinámica, responsable y siempre con ganas de aprender.
 
 🚀 Estoy cursando un bootcamp en HACK A BOSS y estoy realizando el proyecto final.
-🌱 Actualmente estoy perfeccionando React, JavaScript avanzado y diseño responsivo.
+🌱 Actualmente estoy perfeccionando React, JavaScript avanzado y diseño responsive.
 👯 Busco colaborar en un proyecto con React.
 🔭 ¡Busco trabajo remoto!
 ♥️ Me apasiona todo lo relacionado con JavaScript y React. Recientemente he trabajado en mi primer proyecto full-stack.
